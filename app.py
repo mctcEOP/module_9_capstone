@@ -26,6 +26,7 @@ base_template_start = '''
 <!DOCTYPE html>
 <html>
 <head>
+    # added color to the codespace
     <title>{% block title %}Recipe Website{% endblock %}</title>
     <style>
         body {
